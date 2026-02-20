@@ -1,3 +1,4 @@
-The code "protest_phase_1.m" is an example for solving the non-spatial model (i.e., ODE-driven model) and for illustrating the corresponding phase portrait.
-The code "pattern_1d_gh.m" is an example for solving the spatial model (i.e., PDE-driven model) with one-dimensional space and for illustrating the corresponding 1D pattern.
-The code "pattern_2d_gh.m" is an example for solving the spatial model (i.e., PDE-driven model) with two-dimensional space and for illustrating the corresponding 2D pattern.
+This repository contains MALTAB codes to perform numerical simulation of a two-component model of dynamics of protests affected by the damage produced by protesters. The two variables of the model are: U – the number of protesters and V – the amount of damage produced. The following codes are available. 
+The code "protest_phase_1.m" is designed for solving the non-spatial model (i.e., ODE-driven model) and for illustrating the corresponding phase portraits.
+The code "pattern_1d_gh.m" is designed for solving the spatial model (i.e., PDE-driven reaction-diffusion model) in one-dimensional space and producing the corresponding 1D spatio-temporal patterns.
+The code "pattern_2d_gh.m" is designed for solving the spatial model (i.e., PDE-driven model) in two-dimensional space and producing the corresponding 2D spatio-temporal patterns.
